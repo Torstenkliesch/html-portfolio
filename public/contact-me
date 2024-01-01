@@ -1,0 +1,20 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+           <title>Kontakt Form</title>
+    </head>
+ <body>
+    <form>
+<input type="file">
+<input type="range">
+<input type="date">
+
+    </form>
+
+
+ </body>
+
+
+
+
+</html>
